@@ -1,0 +1,160 @@
+D:\C Shape\WarehouseMG\WarehouseMG\bin\Debug\WarehouseMG.exe.config
+D:\C Shape\WarehouseMG\WarehouseMG\bin\Debug\WarehouseMG.exe
+D:\C Shape\WarehouseMG\WarehouseMG\bin\Debug\WarehouseMG.pdb
+D:\C Shape\WarehouseMG\WarehouseMG\obj\Debug\WarehouseMG.csproj.AssemblyReference.cache
+D:\C Shape\WarehouseMG\WarehouseMG\obj\Debug\WarehouseMG.csproj.SuggestedBindingRedirects.cache
+D:\C Shape\WarehouseMG\WarehouseMG\obj\Debug\WarehouseMG.Login.resources
+D:\C Shape\WarehouseMG\WarehouseMG\obj\Debug\WarehouseMG.Properties.Resources.resources
+D:\C Shape\WarehouseMG\WarehouseMG\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.GoodFormAdd.resources
+D:\C Shape\WarehouseMG\WarehouseMG\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.GoodFormViews.resources
+D:\C Shape\WarehouseMG\WarehouseMG\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.SubChildren.GoodsFilter.resources
+D:\C Shape\WarehouseMG\WarehouseMG\obj\Debug\WarehouseMG.src.Components.Views.Child.GoodsForm.resources
+D:\C Shape\WarehouseMG\WarehouseMG\obj\Debug\WarehouseMG.src.Components.Views.Main.MainForm.resources
+D:\C Shape\WarehouseMG\WarehouseMG\obj\Debug\WarehouseMG.csproj.GenerateResource.cache
+D:\C Shape\WarehouseMG\WarehouseMG\obj\Debug\WarehouseMG.csproj.CoreCompileInputs.cache
+D:\C Shape\WarehouseMG\WarehouseMG\obj\Debug\WarehouseMG.exe
+D:\C Shape\WarehouseMG\WarehouseMG\obj\Debug\WarehouseMG.pdb
+D:\StockManagementSystem\WarehouseManagement\obj\Debug\WarehouseMG.csproj.AssemblyReference.cache
+D:\StockManagementSystem\WarehouseManagement\obj\Debug\WarehouseMG.csproj.SuggestedBindingRedirects.cache
+D:\StockManagementSystem\WarehouseManagement\obj\Debug\WarehouseMG.Login.resources
+D:\StockManagementSystem\WarehouseManagement\obj\Debug\WarehouseMG.Properties.Resources.resources
+D:\StockManagementSystem\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.GoodFormAdd.resources
+D:\StockManagementSystem\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.GoodFormViews.resources
+D:\StockManagementSystem\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.SubChildren.GoodsFilter.resources
+D:\StockManagementSystem\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.GoodsForm.resources
+D:\StockManagementSystem\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Main.MainForm.resources
+D:\StockManagementSystem\WarehouseManagement\obj\Debug\WarehouseMG.csproj.GenerateResource.cache
+D:\StockManagementSystem\WarehouseManagement\obj\Debug\WarehouseMG.csproj.CoreCompileInputs.cache
+D:\StockManagementSystem\WarehouseManagement\bin\Debug\WarehouseMG.exe.config
+D:\StockManagementSystem\WarehouseManagement\bin\Debug\WarehouseMG.exe
+D:\StockManagementSystem\WarehouseManagement\bin\Debug\WarehouseMG.pdb
+D:\StockManagementSystem\WarehouseManagement\obj\Debug\WarehouseMG.exe
+D:\StockManagementSystem\WarehouseManagement\obj\Debug\WarehouseMG.pdb
+C:\Users\Admin\Desktop\New folder\WarehouseManagement\bin\Debug\WarehouseMG.exe.config
+C:\Users\Admin\Desktop\New folder\WarehouseManagement\bin\Debug\WarehouseMG.exe
+C:\Users\Admin\Desktop\New folder\WarehouseManagement\bin\Debug\WarehouseMG.pdb
+C:\Users\Admin\Desktop\New folder\WarehouseManagement\obj\Debug\WarehouseMG.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\WarehouseManagement\obj\Debug\WarehouseMG.Login.resources
+C:\Users\Admin\Desktop\New folder\WarehouseManagement\obj\Debug\WarehouseMG.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.GoodFormAdd.resources
+C:\Users\Admin\Desktop\New folder\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.GoodFormViews.resources
+C:\Users\Admin\Desktop\New folder\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.SubChildren.GoodsFilter.resources
+C:\Users\Admin\Desktop\New folder\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.GoodsForm.resources
+C:\Users\Admin\Desktop\New folder\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Main.MainForm.resources
+C:\Users\Admin\Desktop\New folder\WarehouseManagement\obj\Debug\WarehouseMG.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder\WarehouseManagement\obj\Debug\WarehouseMG.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\WarehouseManagement\obj\Debug\WarehouseMG.exe
+C:\Users\Admin\Desktop\New folder\WarehouseManagement\obj\Debug\WarehouseMG.pdb
+E:\C# Project\Warehousemanagement\WarehouseManagement\bin\Debug\WarehouseMG.exe.config
+E:\C# Project\Warehousemanagement\WarehouseManagement\bin\Debug\WarehouseMG.exe
+E:\C# Project\Warehousemanagement\WarehouseManagement\bin\Debug\WarehouseMG.pdb
+E:\C# Project\Warehousemanagement\WarehouseManagement\obj\Debug\WarehouseMG.csproj.AssemblyReference.cache
+E:\C# Project\Warehousemanagement\WarehouseManagement\obj\Debug\WarehouseMG.csproj.SuggestedBindingRedirects.cache
+E:\C# Project\Warehousemanagement\WarehouseManagement\obj\Debug\WarehouseMG.Login.resources
+E:\C# Project\Warehousemanagement\WarehouseManagement\obj\Debug\WarehouseMG.Properties.Resources.resources
+E:\C# Project\Warehousemanagement\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.GoodFormAdd.resources
+E:\C# Project\Warehousemanagement\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.GoodFormViews.resources
+E:\C# Project\Warehousemanagement\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.SubChildren.GoodsFilter.resources
+E:\C# Project\Warehousemanagement\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.GoodsForm.resources
+E:\C# Project\Warehousemanagement\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Main.MainForm.resources
+E:\C# Project\Warehousemanagement\WarehouseManagement\obj\Debug\WarehouseMG.csproj.GenerateResource.cache
+E:\C# Project\Warehousemanagement\WarehouseManagement\obj\Debug\WarehouseMG.csproj.CoreCompileInputs.cache
+E:\C# Project\Warehousemanagement\WarehouseManagement\obj\Debug\WarehouseMG.exe
+E:\C# Project\Warehousemanagement\WarehouseManagement\obj\Debug\WarehouseMG.pdb
+C:\Users\Admin\Desktop\New folder\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.CategoryGoodsForm.resources
+C:\Users\Admin\Desktop\New folder\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.CategoryGoodsFormAdd.resources
+C:\Users\Admin\Desktop\New folder\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.CategoryGoodsFromViews.resources
+C:\Users\Admin\Desktop\New folder\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.SubChildren.GroupGoodFilter.resources
+C:\Users\Admin\Desktop\New folder\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.GroupGoods.resources
+D:\StockManagementSystem\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.CategoryGoodsForm.resources
+D:\StockManagementSystem\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.CategoryGoodsFormAdd.resources
+D:\StockManagementSystem\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.CategoryGoodsFromViews.resources
+D:\StockManagementSystem\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.SubChildren.GroupGoodFilter.resources
+D:\StockManagementSystem\WarehouseManagement\obj\Debug\WarehouseMG.src.Components.Views.Child.GroupGoods.resources
+C:\Users\Admin\Desktop\New folder\WH_Project\bin\Debug\WarehouseMG.exe.config
+C:\Users\Admin\Desktop\New folder\WH_Project\bin\Debug\WarehouseMG.exe
+C:\Users\Admin\Desktop\New folder\WH_Project\bin\Debug\WarehouseMG.pdb
+C:\Users\Admin\Desktop\New folder\WH_Project\obj\Debug\WarehouseMG.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\WH_Project\obj\Debug\WarehouseMG.Login.resources
+C:\Users\Admin\Desktop\New folder\WH_Project\obj\Debug\WarehouseMG.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.CategoryGoodsForm.resources
+C:\Users\Admin\Desktop\New folder\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.CategoryGoodsFormAdd.resources
+C:\Users\Admin\Desktop\New folder\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.CategoryGoodsFromViews.resources
+C:\Users\Admin\Desktop\New folder\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.GoodFormAdd.resources
+C:\Users\Admin\Desktop\New folder\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.GoodFormViews.resources
+C:\Users\Admin\Desktop\New folder\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.SubChildren.GoodsFilter.resources
+C:\Users\Admin\Desktop\New folder\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.SubChildren.GroupGoodFilter.resources
+C:\Users\Admin\Desktop\New folder\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.GoodsForm.resources
+C:\Users\Admin\Desktop\New folder\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.GroupGoods.resources
+C:\Users\Admin\Desktop\New folder\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Main.MainForm.resources
+C:\Users\Admin\Desktop\New folder\WH_Project\obj\Debug\WarehouseMG.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder\WH_Project\obj\Debug\WarehouseMG.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\WH_Project\obj\Debug\WarehouseMG.exe
+C:\Users\Admin\Desktop\New folder\WH_Project\obj\Debug\WarehouseMG.pdb
+D:\StockManagementSystem\WH_Project\bin\Debug\WarehouseMG.exe.config
+D:\StockManagementSystem\WH_Project\bin\Debug\WarehouseMG.exe
+D:\StockManagementSystem\WH_Project\bin\Debug\WarehouseMG.pdb
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.csproj.AssemblyReference.cache
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.csproj.SuggestedBindingRedirects.cache
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.Login.resources
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.Properties.Resources.resources
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.CategoryGoodsForm.resources
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.CategoryGoodsFromViews.resources
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.CustomersFormAdd.resources
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.CustomersFormViews.resources
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.GoodFormAdd.resources
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.GoodFormViews.resources
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.SubChildren.GoodsFilter.resources
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.SubChildren.GroupGoodFilter.resources
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.CustomersForm.resources
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.GoodsForm.resources
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Main.MainForm.resources
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.csproj.GenerateResource.cache
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.csproj.CoreCompileInputs.cache
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.exe
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.pdb
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.SubChildren.CategoryFormAdd.resources
+C:\Users\Admin\Desktop\New folder\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.CustomersFormAdd.resources
+C:\Users\Admin\Desktop\New folder\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.CustomersFormViews.resources
+C:\Users\Admin\Desktop\New folder\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.CustomersForm.resources
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\bin\Debug\WarehouseMG.exe.config
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\bin\Debug\WarehouseMG.exe
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\bin\Debug\WarehouseMG.pdb
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\obj\Debug\WarehouseMG.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\obj\Debug\WarehouseMG.Login.resources
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\obj\Debug\WarehouseMG.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.CategoryGoodsForm.resources
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.CategoryGoodsFromViews.resources
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.CustomersFormAdd.resources
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.CustomersFormViews.resources
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.GoodFormAdd.resources
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.GoodFormViews.resources
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.SubChildren.CategoryFormAdd.resources
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.SubChildren.GoodsFilter.resources
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.SubChildren.GroupGoodFilter.resources
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.CustomersForm.resources
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.GoodsForm.resources
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.GroupGoods.resources
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Main.MainForm.resources
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\obj\Debug\WarehouseMG.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\obj\Debug\WarehouseMG.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\obj\Debug\WarehouseMG.exe
+C:\Users\Admin\Desktop\New folder (2)\WH_Project\obj\Debug\WarehouseMG.pdb
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.GroupGoodsForm.resources
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.GroupsGoodsFormAdd.resources
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.GroupsGoodsFormViews.resources
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.OrderGoods.resources
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.FormReport.resources
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.HomePage.resources
+D:\StockManagementSystem\WH_Project\bin\Debug\WarehouseMG.exe.manifest
+D:\StockManagementSystem\WH_Project\bin\Debug\WarehouseMG.application
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.exe.manifest
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.application
+D:\StockManagementSystem\WH_Project\bin\Debug\zxing.dll
+D:\StockManagementSystem\WH_Project\bin\Debug\zxing.presentation.dll
+D:\StockManagementSystem\WH_Project\bin\Debug\zxing.xml
+D:\StockManagementSystem\WH_Project\bin\Debug\zxing.presentation.xml
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.csproj.CopyComplete
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Setting.resources
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.src.Components.Views.Child.Children.FormSetting.PrinterSetting.resources
+D:\StockManagementSystem\WH_Project\obj\Debug\WarehouseMG.csproj.ResolveComReference.cache
